@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston Aug 2022 - Jun 2026 (Expected)
 
-Work experience
+Relevant experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024 - Now: Researcher
+  * University of Houston
+  * Duties includes: Working on reinforcement learning and continual reinforcement learning algorithms.
+  * Supervisor: Dr. Sen Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Researcher
+  * University of Houston
+  * Duties included: 
+  	* Creating and analyzing K-Cluster-Means, comparing with other industry methods.
+  	* Presented at Data Science Showcase at UH
+  * Supervisor: Dr. Rizk
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+======
+* Used K-Means-Clustering to cluster students based on their learning styles, and then predict their future performance.
+  * It had a higher chance of predicting student performance compared to similar works.
+
+* Created a custom neural network Model from scratch to understand it's inner workings.
+
+* Working on finding efficient computing methods for continual learning.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python (High)
+  * Numpy
+  * Sci-py
+  * sci-kit learn
+  * Requests
+* C++
+* Java
+* Javascript
+* Kotlin
