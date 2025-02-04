@@ -12,7 +12,7 @@ title                    : "Egemen Erkin Senvardarli"
 title_separator          : "-"
 name                     : &name "Egemen Erkin Senvardarli"
 description              : &description "personal description"
-url                      : https://p1ckl.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://p1ckl.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "p1ckl/p1ckl.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Aspiring researcher for continual reinforcement learning"
   location         : "Humble, Texas"
   employer         : "University of Houston"
-  uri              : # URL
+  uri              : #URL
   email            : "eesenvar@cougarnet.uh.edu" 
 
   # Academic websites
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/egemen-senvardarli/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
