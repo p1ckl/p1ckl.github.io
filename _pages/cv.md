@@ -27,6 +27,10 @@ Relevant experience
   	* Presented at Data Science Showcase at UH
   * Supervisor: Dr. Rizk
 
+* Jul 2020 - Sept 2020, Jun 2021 - Aug 2021
+  * Designed and coded a new decision-making system for a crypto trading bot with Kotlin MySQL databases. I used the data from Binance API.
+  * Created a Python package that automated the creation of new projects and automating the synchronizing of company-wide projects in Bitbucket.
+
 Projects
 ======
 * Used K-Means-Clustering to cluster students based on their learning styles, and then predict their future performance.
@@ -47,3 +51,5 @@ Skills
 * Java
 * Javascript
 * Kotlin
+
+[PDF version]("https://p1ckl.github.io/files/resume.pdf")
