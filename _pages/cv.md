@@ -52,4 +52,4 @@ Skills
 * Javascript
 * Kotlin
 
-[PDF version]("https://p1ckl.github.io/files/resume.pdf")
+[PDF version](https://p1ckl.github.io/files/resume.pdf)
