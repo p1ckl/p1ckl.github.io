@@ -38,6 +38,11 @@ Projects
 
 * Created a custom neural network Model from scratch to understand it's inner workings.
 
+* Created a web-based user management and file request web system using Flask.
+  * Incorporated Microsoft authentication through the Microsoft 365 API, which interacts with Azure and PostgreSQL for secure user login and data storage.
+  * Implemented a PDF generation system through LaTeX and Makefile.
+  * Setup Docker environment for containerizing the application.
+
 * Working on finding efficient computing methods for continual learning.
 
 Skills
@@ -47,6 +52,12 @@ Skills
   * Sci-py
   * sci-kit learn
   * Requests
+  * Flask
+  * SQLAlchemy
+* LaTeX
+* Makefile
+* Docker
+* PostgreSQL
 * C++
 * Java
 * Javascript

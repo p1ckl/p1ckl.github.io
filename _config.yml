@@ -21,7 +21,7 @@ repository               : "p1ckl/p1ckl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_foto.jpg"
   name             : "Egemen Erkin Senvardarli"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring researcher for continual reinforcement learning"
